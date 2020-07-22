@@ -1,95 +1,95 @@
-pizzaChoice = 0
-if (click.vegan) {
-    //take me to quiestion 2a
+var pizzaChoice = 0
+if (onclick.vegan) {
+    location.href = "question2a.html"
     pizzaChoice + 1
 }
-if (click.meat) {
-    //take me to quiestion 2b
+if (onclick.Meat_button) {
+    location.href = "question2b.html"
     pizzaChoice + 2
 }
-if (click.pepperoni) {
-    //take me to quiestion 3
+if (onclick.pepperoni) {
+    location.href = "question3.html"
     pizzaChoice + 2
 }
-if (click.sausage) {
-    //take me to quiestion 3
+if (onclick.sausage) {
+    location.href = "question3.html"
     pizzaChoice + 3
 }
-if (click.mushroom) {
-    //take me to quiestion 3
+if (onclick.mushroom) {
+    location.href = "question3.html"
     pizzaChoice + 1
 }
-if (click.broccoli) {
-    //take me to quiestion 3
+if (onclick.broccoli) {
+    location.href = "question3.html"
     pizzaChoice + 2
 }
-if (click.thin) {
-    //take me to quiestion 4
+if (onclick.thin) {
+    location.href = "question4.html"
     pizzaChoice + 2
 }
-if (click.deepDish) {
-    //take me to quiestion 4
+if (onclick.deepDish) {
+    location.href = "question4.html"
     pizzaChoice + 6
 }
-if (click.fruits) {
-    //take me to error screen
+if (onclick.fruits) {
+    location.href = "404.html"
 }
-if (click.noFruits) {
-    //take me to question 5
+if (onclick.noFruits) {
+    location.href = "question5.html"
 }
-if (click.classic) {
+if (onclick.classic) {
     pizzaChoice + 4
 }
-if (click.expiriment) {
+if (onclick.expiriment) {
     pizzaChoice + 12
 }
 if (pizzaChoice = 8){
-    //take me to mushroomClassic
+    location.href = "question3.html"
 }
 if (pizzaChoice = 9){
-    //take me to vedgetableClassic
+    location.href = "question3.html"
 }
 if (pizzaChoice = 12){
-    //take me to mushroomChicagoStyle
+    location.href = "question3.html"
 }
 if (pizzaChoice = 13){
-    //take me to vedgetableChicagoStyle
+    location.href = "question3.html"
 }
 if (pizzaChoice = 16){
-    //take me to turkishPizza
+    location.href = "question3.html"
 }
 if (pizzaChoice = 17){
-    //take me to stuffedCrustCauliflower
+    location.href = "question3.html"
 }
 if (pizzaChoice = 20){
-    //take me to chicagoStyleMushroomPeppers
+    location.href = "question3.html"
 }
 if (pizzaChoice = 21){
-    //take me to chicagoStyleGrandmaPie
+    location.href = "question3.html"
 }
 if (pizzaChoice = 10){
-    //take me to pepperoniPizza
+    location.href = "question3.html"
 }
 if (pizzaChoice = 11){
-    //take me to sausagePizza
+    location.href = "question3.html"
 }
 if (pizzaChoice = 14){
-    //take me to chicagoDeepDishPepperoni
+    location.href = "question3.html"
 }
 if (pizzaChoice = 15){
-    //take me to chicagoDeepDishSausage
+    location.href = "question3.html"
 }
 if (pizzaChoice = 18){
-    //take me to pepperoniCheeseStuffedCrust
+    location.href = "question3.html"
 }
 if (pizzaChoice = 19){
-    //take me to carneAsada
+    location.href = "question3.html"
 }
 if (pizzaChoice = 22){
-    //take me to deepDishPepperoniStuffedCrust
+    location.href = "question3.html"
 }
 if (pizzaChoice = 23){
-    //take me to deepDishSausageStuffedCrust
+    location.href = "question3.html"
 }
 
 
