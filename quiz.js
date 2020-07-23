@@ -69,52 +69,52 @@ function expFunction() {
 }
 function result() {
     if (pizzaChoice === 8) {
-        location.replace("mushroomclassic.html")
+        location.replace("./Pizza-choice-html/Mushroom/mushroomclassic.html")
     }
     if (pizzaChoice === 9) {
-        location.replace("veggiepizza.html")
+        location.replace("./Pizza-choice-html/Vegetarian/veggiepizza.html")
     }
     if (pizzaChoice === 12) {
-        location.replace("mushroomdeep.html")
+        location.replace("./Pizza-choice-html/Mushroom/mushroomdeep.html")
     }
     if (pizzaChoice === 13) {
-        location.replace("veggiedeep.html")
+        location.replace("./Pizza-choice-html/Vegetarian/veggiedeep.html")
     }
     if (pizzaChoice === 16) {
-        location.replace("mushroomexp.html")
+        location.replace("./Pizza-choice-html/Mushroom/mushroomexp.html")
     }
     if (pizzaChoice === 17) {
-        location.replace("veggieexp.html")
+        location.replace("./Pizza-choice-html/Vegetarian/veggieexp.html")
     }
     if (pizzaChoice === 20) {
-        location.replace("mushroompepperdeep.html")
+        location.replace("./Pizza-choice-html/Mushroom/mushroompepperdeep.html")
     }
     if (pizzaChoice === 21) {
-        location.replace("veggiedeepexp.html")
+        location.replace("./Pizza-choice-html/Vegetarian/veggiedeepexp.html")
     }
     if (pizzaChoice === 10) {
-        location.replace("pepperoni.html")
+        location.replace("./Pizza-choice-html/Pepperoni/pepperoni.html")
     }
     if (pizzaChoice === 11) {
-        location.replace("sausage.html")
+        location.replace("./Pizza-choice-html/Sausage/sausage.html")
     }
     if (pizzaChoice === 14) {
-        location.replace("pepperonideep.html")
+        location.replace("./Pizza-choice-html/Pepperoni/pepperonideep.html")
     }
     if (pizzaChoice === 15) {
-        location.replace("sausagedeep.html")
+        location.replace("./Pizza-choice-html/Sausage/sausagedeep.html")
     }
     if (pizzaChoice === 18) {
-        location.replace("pepperoniexp.html")
+        location.replace("./Pizza-choice-html/Pepperoni/pepperoniexp.html")
     }
     if (pizzaChoice === 19) {
-        location.replace("sausageexp.html")
+        location.replace("./Pizza-choice-html/Sausage/sausageexp.html")
     }
     if (pizzaChoice === 22) {
-        location.replace("pepperonideepexp.html")
+        location.replace("./Pizza-choice-html/Pepperoni/pepperonideepexp.html")
     }
     if (pizzaChoice === 23) {
-        location.replace("sausagedeepexp.html")
+        location.replace("./Pizza-choice-html/Sausage/sausagedeepexp.html")
     }
 }
 
