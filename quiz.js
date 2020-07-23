@@ -8,7 +8,7 @@ if (sessionStorage.getItem("pizzaChoice")) {
     sessionStorage.setItem("pizzaChoice", 0)
 }
 
-function startFunction() {
+function perfectFunction() {
     location.replace("Question1.html")
 }
 function veggieFunction() {
